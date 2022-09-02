@@ -14,7 +14,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Adnan219&layout=compact)](https://github.com/Ali-Adnan219/github-readme-stats)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs.username=Ali-Adnan219&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Adnan219&langs_count=8)](https://github.com/Ali-Adnan219/github-readme-stats)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Ali-Adnan219&show_icons=true&theme=radical)
 
