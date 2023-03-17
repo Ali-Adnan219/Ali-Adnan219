@@ -1,27 +1,13 @@
-- 👋 Hi, I’m Ali Adnan
--
-- My account in telegram...
-        https://t.me/AliS219
+# Hey there 👋, I'm Ali Adnan!
 
+I'm a Telecommunications Engineer and a programmer proficient in **Python** and **PHP**.
 
-* I know programming languages :
+## Contact Me
 
-    - ***Python***
-    - ***PHP***
+You can reach me on [Telegram](https://t.me/AliS219).
 
-#
+## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Adnan219&layout=compact)](https://github.com/Ali-Adnan219/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Adnan219&layout=compact&theme=radical)](https://github.com/Ali-Adnan219)
 
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=Ali-Adnan219&show_icons=true&theme=radical)
-
-
-
-<!---
-AliAdnanc7/AliAdnanc7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Ali Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Adnan219&show_icons=true&theme=radical)
